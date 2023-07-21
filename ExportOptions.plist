@@ -11,7 +11,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://rsidv.github.io/iOS/RSIDViOS.ipa</string>
+		<string>https://rsidv.github.io/iOS</string>
 		<key>displayImageURL</key>
 		<string>https://rsidv.github.io/iOS/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
